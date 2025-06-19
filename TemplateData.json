@@ -1,1 +1,29 @@
-{"Templates":[{"TemplateDisplayName":"Blank","TemplateName":"BlankTemplate","TemplateDescription":"Create a blank project and make an AR experience from scratch.","TemplateIcon":"Blank","TemplatePath":"","TemplateAuthor":"","TemplateLicense":"","TemplateType":"C#","TemplateVersion":"1.0.0","ID":0}],"name":"TemplatesData","hideFlags":0}
+{
+	"Templates": [{
+			"TemplateDisplayName": "Blank",
+			"TemplateName": "BlankTemplate",
+			"TemplateDescription": "Create a blank project and make an AR experience from scratch.",
+			"TemplateIcon": "Blank",
+			"TemplatePath": "",
+			"TemplateAuthor": "",
+			"TemplateLicense": "",
+			"TemplateType": "C#",
+			"TemplateVersion": "1.0.0",
+			"ID": 0
+		},
+		{
+			"TemplateDisplayName": "Multiplayer(Photon Fusion)",
+			"TemplateName": "Multiplayer(Photon Fusion)",
+			"TemplateDescription": "Create a blank project and make an AR experience from scratch.",
+			"TemplateIcon": "Blank",
+			"TemplatePath": "",
+			"TemplateAuthor": "",
+			"TemplateLicense": "",
+			"TemplateType": "C#",
+			"TemplateVersion": "1.0.0",
+			"ID": 0
+		}
+	],
+	"name": "TemplatesData",
+	"hideFlags": 0
+}
