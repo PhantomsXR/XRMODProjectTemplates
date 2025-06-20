@@ -10,18 +10,6 @@
 			"TemplateType": "C#",
 			"TemplateVersion": "1.0.0",
 			"ID": 0
-		},
-		{
-			"TemplateDisplayName": "Multiplayer (Photon Fusion)",
-			"TemplateName": "Multiplayer(Photon Fusion)",
-			"TemplateDescription": "Create a blank project and make an AR experience from scratch.",
-			"TemplateIcon": "https://raw.githubusercontent.com/PhantomsXR/XRMODProjectTemplates/refs/heads/main/test.png",
-			"TemplatePath": "",
-			"TemplateAuthor": "",
-			"TemplateLicense": "",
-			"TemplateType": "C#",
-			"TemplateVersion": "1.0.0",
-			"ID": 0
 		}
 	],
 	"name": "TemplatesData",
